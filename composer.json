@@ -9,8 +9,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "php" : ">=5.4.0",
-        "yiisoft/yii2" : "*",
-        "bower-asset/clipboard": "*"
+        "yiisoft/yii2" : "*"
     },
     "autoload": {
         "psr-4": {
