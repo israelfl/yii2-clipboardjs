@@ -1,4 +1,4 @@
-# yii2-clipboardjs
+# yii2-iflclipboardjs
 
 Foked from [supplyhog/yii2-clipboardjs](https://github.com/supplyhog/yii2-clipboardjs)
 
@@ -10,7 +10,7 @@ An easy way to use [Clipboardjs](https://clipboardjs.com/) in your project. Clip
 Install this extension via [composer](http://getcomposer.org/download). Add this line to your project’s composer.json
 
 ```php
-"supplyhog/yii2-clipboardjs" : "dev-master"
+"supplyhog/yii2-iflclipboardjs" : "dev-master"
 ```
 
 ## Usage
