@@ -1,6 +1,6 @@
 <?php
 
-namespace israelfl\ClipboardJs;
+namespace israelfl\clipboardjs;
 
 use yii\web\AssetBundle;
 use yii\web\View;
