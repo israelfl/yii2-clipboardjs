@@ -1,9 +1,9 @@
 {
-    "name": "supplyhog/yii2-clipboardjs",
+    "name": "israelfl/yii2-iflclipboardjs",
     "authors": [
         {
-            "name": "Wil Wade",
-            "email": "wil@supplyhog.com"
+            "name": "Israel Falcón",
+            "email": "israelfl@gmail.com"
         }
     ],
     "license": "BSD-3-Clause",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-             "supplyhog\\ClipboardJs\\" : "src"
+             "israelfl\\ClipboardJs\\" : "src"
         }
     }
 }
