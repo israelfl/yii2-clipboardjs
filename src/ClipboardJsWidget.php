@@ -1,6 +1,6 @@
 <?php
 
-namespace supplyhog\ClipboardJs;
+namespace israelfl\ClipboardJs;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
