@@ -1,5 +1,7 @@
 # yii2-clipboardjs
 
+Foked from [supplyhog/yii2-clipboardjs](https://github.com/supplyhog/yii2-clipboardjs)
+
 An easy way to use [Clipboardjs](https://clipboardjs.com/) in your project. Clipboardjs is a javascript only way to copy text to the clipboard.
 
 
