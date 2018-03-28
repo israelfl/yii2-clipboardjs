@@ -11,7 +11,7 @@
     "require": {
         "php" : ">=5.4.0",
         "yiisoft/yii2" : "*",
-        "bower-asset/clipboard": "1.7.1"
+        "bower-asset/clipboard": "*"
     },
     "autoload": {
         "psr-4": {
